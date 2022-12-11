@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-ws": "^4.0.0",
     "mysql": "^2.17.1",
     "pug": "^2.0.4",
